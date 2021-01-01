@@ -1,0 +1,19 @@
+// Ignore #strinnnnnngggg
+
+Q1) String Matching: Given two strings – a text and a pattern, determine whether the pattern appears in the text. Assume that the length of the text is n and the length of the pattern m (m << n).
+
+    5.1) Naive Method: Its idea is straightforward — for every position in the text, consider it a starting position of the pattern and see if you get a match.
+    5.2) Rabin-Karp Algorithm (RK): This is actually the “naive” approach augmented by Hashing. Calculate the hash value for the pattern and for every substring of length m of the text. The inner loop of the “naive” method will disappear – instead of comparing two strings character by character we will have just to compare two integers.
+
+// Ignore #stringent
+   
+Implement the above 2 methods and compare their actual running times (in terms of msec). (10 Marks + 20 Marks)
+// Dont Ignore my'string
+Consider text as the content of this file (Complexity-Assignment) and pattern as keyword "string". Return the number of occurences of the pattern in the text. (You have search for the keyword "string" in this text file)
+Only consider the alphabets (treat lowercase and uppercase letters as same), ignore all other charachters (replace them with a space).
+(40 Marks)
+
+// Dont Ignore #string
+Q2) Study and implement (pseudo-code) the Knuth-Morris-Pratt Algorithm (KMP) for string searching. Analyze its complexity in terms of time and space.
+(30 Marks)
+// Ignore #strinnnnnngggg

@@ -1,0 +1,3420 @@
+31   34   I amar prestar aen.
+
+34   36   The world is changed.
+
+36   37   Han mathon ne nen.
+
+37   39   I feel it in the water.
+
+39   41   Han mathon ne chae.
+
+41   43   I feel it in the earth.
+
+44   45   A han noston ned 'wilith.
+
+45   48   I smell it in the air.
+
+49   51   Much that once was...
+
+51   52   ...is lost.
+
+53   56   For none now live who remember it.
+
+69   73   It began with the forging of the great rings.
+
+74   76   Three were given to the elves:
+
+76   79   Immortal, wisest and fairest of all beings.
+
+81   83   Seven to the dwarf-lords:
+
+83   88   Great miners and craftsmen of the mountain halls.
+
+88   90   And nine...
+
+90   93   ...nine rings were gifted to the race of men...
+
+93   97   ...who, above all else, desire power.
+
+98   103   For within these rings was bound
+
+105   108   But they were all of them deceived.
+
+108   110   For another ring was made.
+
+111   114   In the land of Mordor,
+
+115   119   ...the Dark Lord Sauron forged
+
+120   122   ...to control all others.
+
+122   126   And into this ring he poured
+
+126   130   ...and his will to dominate all life.
+
+131   135   One Ring to rule them all.
+
+136   138   One by one...
+
+138   142   ...the free lands of Middle-earth
+
+143   146   But there were some who resisted.
+
+146   151   A last alliance of men and elves
+
+151   156   And on the slopes of Mount Doom, they
+
+168   171   Tangado haid!
+
+171   174   Leithio i philinn!
+
+186   189   Victory was near.
+
+193   196   But the power of the ring...
+
+196   198   ...could not be undone.
+
+222   224   It was in this moment...
+
+224   227   ...when all hope had faded...
+
+227   231   ...that Isildur, son of the king,
+
+262   268   Sauron, the enemy of the free peoples
+
+275   278   The ring passed to Isildur...
+
+278   282   ... who had this one chance to destroy evil forever.
+
+283   285   But the hearts of men...
+
+285   287   ...are easily corrupted.
+
+288   292   And the ring of power has a will of its own.
+
+318   320   It betrayed Isildur...
+
+322   324   ... to his death.
+
+329   332   And some things
+
+333   335   ...were lost.
+
+336   338   History became legend...
+
+338   340   ...legend became myth.
+
+341   343   And for two and a half thousand years...
+
+344   347   ... the ring passed out of all knowledge.
+
+348   351   Until, when chance came...
+
+351   354   ...it ensnared a new bearer.
+
+356   361   My precious.
+
+361   363   The ring came to the creature Gollum...
+
+364   367   ... who took it deep into the tunnels
+
+368   371   And there it consumed him.
+
+371   373   It came to me.
+
+373   378   My own. My love. My own.
+
+378   382   My precious.
+
+386   390   The ring brought to Gollum unnatural long life.
+
+390   394   For 500 years it poisoned his mind.
+
+394   398   And in the gloom of Gollum's cave, it waited.
+
+399   402   Darkness crept back into the forests of the world.
+
+402   405   Rumor grew of a shadow in the East...
+
+405   408   ... whispers of a nameless fear.
+
+408   411   And the ring of power perceived...
+
+412   414   ...its time had now come.
+
+417   420   It abandoned Gollum.
+
+420   425   But something happened then
+
+426   430   It was picked up by the most
+
+430   431   What's this?
+
+432   433   A hobbit.
+
+433   436   Bilbo Baggins of the Shire.
+
+436   438   A ring.
+
+438   440   Lost!
+
+443   444   My precious is lost!
+
+444   446   My precious is lost!
+
+447   449   For the time will soon come...
+
+449   454   ... when Hobbits will shape the fortunes of all.
+
+459   461   The 22nd day of September......
+
+462   465   ...in the year 1400...
+
+466   468   ...by Shire-reckoning.
+
+468   474   Bag End, Bagshot Row.
+
+474   476   ...the Shire...
+
+476   479   ...Middle-earth.
+
+484   487   The third age of this world.
+
+499   501   There and back again.
+
+503   505   A Hobbit's tale.
+
+505   509   By Bilbo Baggins.
+
+514   516   Now...
+
+516   518   ...where to begin?
+
+520   521   Ah, yes....
+
+525   527   "Concerning...
+
+528   530   ...Hobbits."
+
+531   534   Hobbits have been living and farming
+
+535   537   ...for many hundreds of years...
+
+537   540   ...quite content to ignore and be ignored...
+
+540   543   ...by the world of the big folk.
+
+544   549   Middle-earth being, after all,
+
+549   552   ...Hobbits must seem of little importance...
+
+553   557   ...being neither renowned as great warriors...
+
+557   561   ...nor counted among the very wise.
+
+565   568   Frodo! Someone at the door.
+
+570   572   In fact, it has been remarked by some...
+
+572   577   ... that Hobbits' only real passion is for food.
+
+577   579   A rather unfair observation...
+
+580   583   ...as we have also developed a keen
+
+584   586   ...and the smoking of pipe-weed.
+
+587   590   But where our hearts truly lie...
+
+590   592   ...is in peace and quiet...
+
+593   595   ...and good, tilled earth.
+
+595   600   For all Hobbits share a love of things that grow.
+
+603   608   And yes, no doubt to others our ways seem quaint.
+
+608   613   But today of all days.
+
+614   620   It is no bad thing to celebrate a simple life.
+
+624   627   Frodo, the door!
+
+631   633   Sticklebacks. Where is that boy?
+
+633   635   Frodo!
+
+641   644   Down from the door where it began
+
+649   653   And I must follow if I can
+
+654   658   The road goes ever on and on
+
+658   661   Down from the door where it began
+
+662   666   Now far ahead the road has gone
+
+667   671   And I must follow if I can
+
+674   678   A wizard is never late, Frodo Baggins.
+
+679   683   Nor is he early.
+
+695   698   It's wonderful to see you, Gandalf!
+
+702   705   You didn't think I'd miss
+
+707   709   How is the old rascal?
+
+710   713   I hear it's going to be a party
+
+714   716   You know Bilbo.
+
+716   718   Well, that should please him.
+
+718   720   Half the Shire's been invited.
+
+721   723   And the rest of them are turning up anyway.
+
+726   730   And so life in the Shire goes on...
+
+730   733   ... very much as it has this past age.
+
+733   738   Full of its own comings and goings,
+
+739   741   If it comes at all.
+
+742   745   For things are made to endure in the Shire...
+
+746   749   ...passing from one generation to the next.
+
+750   754   There's always been a Baggins
+
+755   756   ...in Bag End.
+
+759   762   And there always will be.
+
+762   766   To tell you the truth,
+
+767   769   I mean, more than usual.
+
+770   772   He's taken to locking himself in his study.
+
+774   778   He spends hours and hours poring over
+
+791   792   Where's it gone?
+
+819   821   He's up to something.
+
+829   832   - All right, then. Keep your secrets.
+
+832   834   But I know you have something to do with it.
+
+834   835   Good gracious me.
+
+835   838   Before you came along, we Bagginses
+
+838   839   Indeed.
+
+840   842   Never had any adventures
+
+842   848   If you're referring to the incident with the dragon.
+
+848   852   All I did was give your uncle
+
+852   856   Whatever you did, you've been officially
+
+857   859   Oh, really?
+
+864   866   Gandalf! Gandalf!
+
+872   874   Fireworks, Gandalf!
+
+877   879   - Gandalf!
+
+898   899   Gandalf?
+
+900   904   - I'm glad you're back.
+
+908   910   So am I.
+
+942   943   No, thank you!
+
+944   947   We don't want any more visitors,
+
+948   951   And what about very old friends?
+
+955   956   Gandalf?
+
+957   960   - Bilbo Baggins.
+
+961   965   Good to see you. 111 years old!
+
+967   969   You haven't aged a day.
+
+976   978   Come on, come in!
+
+978   981   Welcome, welcome.
+
+982   984   Oh, here we are.
+
+986   988   Tea...or maybe something a littIe stronger?
+
+989   992   I've got a few bottles of the old winyard left - 1296.
+
+993   996   Very good year. Almost as old as I am.
+
+998   1002   It was laid down by my father.
+
+1003   1005   Just tea, thank you.
+
+1012   1013   I was expecting you sometime last week.
+
+1013   1017   Not that it matters. You come and go as
+
+1017   1022   You caught me a bit unprepared I'm afraid.
+
+1022   1026   There's some cheese here.
+
+1026   1030   We've got raspberry jam, an apple tart....
+
+1031   1034   But not much for afters.
+
+1035   1037   I've just found some sponge cake.
+
+1041   1042   I could make you some eggs if you'd li...
+
+1046   1048   - Just tea, thank you.
+
+1049   1052   - You don't mind if I eat, do you?
+
+1053   1055   Bilbo! Bilbo Baggins!
+
+1055   1056   I'm not at home!
+
+1063   1065   It's the Sackville-Bagginses.
+
+1065   1067   - I know you're in there!
+
+1068   1070   They've never forgiven me for living this long.
+
+1071   1073   I've got to get away from these confounded
+
+1074   1076   ...never giving me a moment's peace.
+
+1076   1080   I want to see mountains again.
+
+1080   1085   And then find somewhere quiet
+
+1085   1089   - So you mean to go through with your plan?
+
+1089   1091   All the arrangements are made.
+
+1093   1095   Oh, thank you.
+
+1096   1098   Frodo suspects something.
+
+1098   1100   Of course he does. He's a Baggins...
+
+1101   1103   ...not some blockheaded Bracegirdle
+
+1104   1106   You will tell him, won't you?
+
+1107   1109   - Yes, yes.
+
+1112   1113   I know.
+
+1116   1119   He'd probably come with me if I asked him.
+
+1120   1123   I think in his heart, Frodo's
+
+1124   1127   The woods, the fields.
+
+1127   1129   Little rivers.
+
+1134   1136   I am old, Gandalf.
+
+1138   1143   I know I don't look it, but I'm
+
+1145   1148   I feel thin.
+
+1148   1150   Sort of stretched...
+
+1151   1154   ...like butter scraped over too much bread.
+
+1155   1159   I need a holiday. A very Long holiday.
+
+1159   1162   And I don't expect I shall return.
+
+1165   1168   In fact, I mean not to.
+
+1171   1174   Old Toby.
+
+1192   1195   Gandalf, my old friend...
+
+1195   1197   ...this will be a night to remember.
+
+1220   1221   Hello, hello.
+
+1222   1226   Fatty Bolger. Lovely to see you.
+
+1227   1229   Go on, Sam. Ask Rosie for a dance.
+
+1232   1235   - I think I'll just have another ale.
+
+1237   1238   Go on!
+
+1249   1250   So there I was...
+
+1251   1255   ...at the mercy of three monstrous trolls.
+
+1255   1257   And they were all arguing amongst themselves...
+
+1257   1259   ...about how they were going to cook us.
+
+1260   1264   Whether it be turned on a spit, or to sit
+
+1266   1269   They spent so much time arguing
+
+1269   1273   ...that the sun's first light
+
+1274   1276   ...and turned them all to stone!
+
+1282   1283   Quickly.
+
+1287   1289   Up they go!
+
+1292   1294   No no, the big one - big one
+
+1303   1305   Mrs. Bracegirdle, how nice to see you.
+
+1306   1308   Are all these children yours?
+
+1308   1311   Good gracious, you have been productive.
+
+1313   1314   Bilbo?
+
+1316   1317   Sackville-Bagginses!
+
+1318   1319   Quickly, hide!
+
+1329   1331   Thank you, my boy.
+
+1332   1335   You're a good lad, Frodo.
+
+1336   1339   I'm very selfish, you know.
+
+1339   1343   Yes, I am. Very selfish.
+
+1343   1345   I don't know why I took you in after
+
+1346   1347   ...but it wasn't out of charity.
+
+1348   1349   I think it was because...
+
+1349   1351   ...of all my numerous relations...
+
+1352   1355   ...you were the one Baggins that showed real spirit.
+
+1356   1357   Bilbo, have you been at the Gaffer's home brew?
+
+1358   1359   No.
+
+1360   1362   Well, yes, but that's not the point.
+
+1362   1366   The point is, Frodo...
+
+1369   1371   ...you'll be all right.
+
+1374   1376   - Done!
+
+1376   1378   - It is in the ground.
+
+1378   1380   This was your idea.
+
+1395   1397   Bilbo.
+
+1398   1401   Bilbo, watch out for the dragon!
+
+1401   1404   Nonsense. There hasn't been a dragon
+
+1418   1421   - That was good.
+
+1423   1427   Meriadoc Brandybuck and Peregrin Took.
+
+1428   1429   I might've known.
+
+1435   1437   Speech, Bilbo!
+
+1438   1440   Speech!
+
+1440   1441   Speech!
+
+1446   1448   My dear Bagginses and Boffins...
+
+1449   1451   ...Tooks and Brandybucks...
+
+1452   1454   ...Grubbs, Chubbs...
+
+1454   1455   ...Hornblowers...
+
+1456   1458   ...Bolgers...
+
+1459   1460   ...Bracegirdles...
+
+1460   1463   ...and Proudfoots.
+
+1465   1468   Today is my 111th birthday!
+
+1470   1472   Happy birthday!
+
+1472   1476   But alas, eleventh-one years is
+
+1476   1479   ...such excellent and admirable Hobbits.
+
+1480   1483   I don't know half of you
+
+1483   1487   ...and I like less than half of you
+
+1498   1500   I have things to do.
+
+1506   1508   I've put this off for far too long.
+
+1512   1516   I regret to announce this is the end!
+
+1517   1519   I'm going now.
+
+1520   1523   I bid you all a very fond farewell.
+
+1525   1526   Goodbye.
+
+1559   1562   I suppose you think that was terribly clever.
+
+1563   1566   Come on, Gandalf.
+
+1566   1569   There are many magic rings in
+
+1569   1571   ...and none of them should be used lightly.
+
+1572   1574   It was just a bit of fun.
+
+1574   1578   Oh, you're probably right, as usual.
+
+1579   1582   - You will keep an eye on Frodo, won't you?
+
+1583   1585   As often as I can spare them.
+
+1586   1589   - I'm leaving everything to him.
+
+1589   1592   - Is that staying too?
+
+1593   1597   It's in an envelope over there on the mantelpiece.
+
+1598   1601   No. Wait, it's...
+
+1603   1606   ...here in my pocket.
+
+1611   1614   Isn't that--? Isn't that odd, now?
+
+1616   1619   Yet, after all, why not?
+
+1621   1625   - Why shouldn’t I keep it?
+
+1626   1628   Is that so hard?
+
+1628   1630   Well, no.
+
+1632   1634   And yes.
+
+1636   1639   Now it comes to it,
+
+1639   1641   It's mine. I found it! It came to me!
+
+1641   1645   - There's no need to get angry.
+
+1645   1647   It's mine.
+
+1649   1651   My own.
+
+1651   1655   - My precious.
+
+1656   1658   It's been called that before, but not by you.
+
+1659   1661   What business is it of yours
+
+1661   1664   I think you've had that ring quite long enough.
+
+1664   1667   - You want it for yourself!
+
+1667   1672   Do not take me for some conjurer of cheap tricks.
+
+1672   1675   I am not trying to rob you.
+
+1681   1682   I'm trying to help you.
+
+1691   1694   All your long years, we've been friends.
+
+1694   1697   Trust me as you once did.
+
+1699   1700   Let it go.
+
+1701   1704   You're right, Gandalf.
+
+1706   1709   The ring must go to Frodo.
+
+1710   1713   It's late. The road is long.
+
+1713   1716   Yes, it is time.
+
+1718   1723   Bilbo, the ring is still in your pocket.
+
+1758   1761   I've thought up an ending for my book:
+
+1763   1768   "And he lived happily ever after
+
+1768   1771   And I'm sure you will, my dear friend.
+
+1773   1774   Goodbye, Gandalf.
+
+1777   1779   Goodbye, dear Bilbo.
+
+1787   1791   The road goes ever on and on...
+
+1794   1796   Until our next meeting.
+
+1824   1827   It's mine. My own.
+
+1828   1831   My precious.
+
+1831   1834   Riddles in the dark.
+
+1834   1836   Bilbo!
+
+1836   1837   Bilbo!
+
+1841   1844   My precious.
+
+1846   1848   Precious.
+
+1848   1851   He's gone, hasn't he?
+
+1854   1856   He talked for so long about leaving...
+
+1857   1859   ...I didn't think he'd really do it.
+
+1864   1866   Gandalf?
+
+1874   1876   Bilbo's ring.
+
+1876   1878   He's gone to stay with the elves.
+
+1879   1882   He's left you Bag End.
+
+1885   1888   Along with all his possessions.
+
+1888   1891   The ring is yours now.
+
+1894   1897   - Put it somewhere out of sight.
+
+1897   1899   - There are some things that I must see to.
+
+1900   1904   - Questions. Questions that need answering.
+
+1905   1907   I don't understand.
+
+1911   1912   Neither do I.
+
+1915   1917   Keep it secret.
+
+1918   1919   Keep it safe.
+
+1954   1957   Shire!
+
+1957   1960   Baggins!
+
+2009   2011   "The year 3434 of the second age.
+
+2012   2016   Here follows the account of Isildur,
+
+2016   2020   ...and the finding of the ring of power."
+
+2023   2025   "It has come to me.
+
+2026   2029   The One Ring.
+
+2029   2032   All those who follow in my bloodline
+
+2033   2036   ...for I will risk no hurt to the ring.
+
+2037   2039   It is precious to me...
+
+2040   2043   ...though I buy it with great pain.
+
+2046   2050   The markings upon the band begin to fade.
+
+2050   2055   The writing, which at first was as clear
+
+2055   2059   A secret now that only fire can tell."
+
+2076   2079   Shire...
+
+2079   2081   ...Baggins.
+
+2082   2086   There's no Bagginses around here.
+
+2087   2089   That way.
+
+2093   2095   "Hey ho to the dock I go
+
+2095   2097   To heal my heart and drown my woe
+
+2097   2100   Rain may fall and wind may blow
+
+2100   2102   But there still be...
+
+2102   2103   ...many miles to go
+
+2104   2105   Sweet is the sound of the pouring rain
+
+2106   2108   And the stream that falls from hill to plain
+
+2108   2110   Better than rain or rippling brook
+
+2110   2112   Is a mug of beer inside this Took!"
+
+2116   2119   There's been some strange folk crossing the Shire.
+
+2119   2123   Dwarves and others of a less than savory nature.
+
+2124   2125   War is brewing.
+
+2126   2128   The mountains are fair teeming with goblins.
+
+2129   2131   Far-off tales and children’s stories, that's all that is.
+
+2131   2136   You're beginning to sound like that old
+
+2136   2139   Young Mr. Frodo here, he's cracking.
+
+2139   2141   And proud of it.
+
+2141   2143   - Cheers, Gaffer.
+
+2143   2147   Weel it's none of our concern what
+
+2148   2152   Keep your nose out of trouble,
+
+2155   2157   - Good night, lads.
+
+2158   2162   Good night, sweet maiden of the golden ale.
+
+2162   2165   Mind who you're sweet-talking.
+
+2165   2169   Don't worry, Sam.
+
+2170   2172   Does she?
+
+2172   2175   - Good night, Sam.
+
+2200   2202   Is it secret? Is it safe?
+
+2211   2213   What are you doing?
+
+2226   2229   Hold out your hand, Frodo.
+
+2229   2230   It's quite cool.
+
+2234   2235   What can you see?
+
+2237   2239   Can you see anything?
+
+2242   2244   Nothing.
+
+2244   2246   There's nothing.
+
+2247   2249   Wait.
+
+2253   2255   There are markings.
+
+2257   2260   It's some form of Elvish.
+
+2260   2263   There are few who can.
+
+2263   2268   The language is that of Mordor,
+
+2269   2270   Mordor!
+
+2270   2272   In the common tongue, it says:
+
+2272   2276   "One Ring to rule them all...
+
+2276   2278   ...One Ring to find them...
+
+2279   2281   ...One Ring to bring them all...
+
+2281   2284   ...and in the darkness bind them."
+
+2286   2288   This is the One Ring...
+
+2288   2293   ...forged by the Dark Lord Sauron
+
+2294   2297   Taken by Isildur from the hand of Sauron himself.
+
+2298   2301   Bilbo found it.
+
+2301   2303   - In Gollum's cave.
+
+2304   2308   For 60 years, the ring lay quiet in Bilbo's keeping...
+
+2308   2312   ...prolonging his life, delaying old age.
+
+2312   2317   But no longer, Frodo.
+
+2317   2319   The ring has awoken.
+
+2320   2322   It's heard its master's call.
+
+2322   2326   But he was destroyed.
+
+2332   2334   No, Frodo.
+
+2335   2338   The spirit of Sauron endured.
+
+2339   2344   His life force is bound to the ring,
+
+2344   2346   Sauron has returned.
+
+2347   2349   His orcs have multiplied.
+
+2350   2354   His fortress at Barad-dûr
+
+2354   2358   Sauron needs only this ring to cover
+
+2359   2361   He is seeking it.
+
+2361   2365   Seeking it - All his thought is bent on it.
+
+2365   2368   For the ring yearns above all else...
+
+2368   2371   ...to return to the hand of its master.
+
+2372   2374   They are one...
+
+2374   2377   ...the ring and the Dark Lord.
+
+2377   2378   Frodo...
+
+2379   2380   ...he must never find it.
+
+2381   2382   All right.
+
+2382   2386   We put it away. We keep it hidden.
+
+2387   2389   No one knows it's here, do they?
+
+2395   2396   Do they, Gandalf?
+
+2397   2400   There is one other who knew
+
+2402   2405   I looked everywhere for the creature Gollum.
+
+2405   2407   But the enemy found him first.
+
+2409   2411   I don't know how long they tortured him.
+
+2412   2416   But amidst the endless screams and
+
+2416   2418   Shire!
+
+2419   2420   Baggins!
+
+2420   2422   Shire.
+
+2422   2425   Baggins.
+
+2428   2429   Who goes there?
+
+2431   2432   Take it, Gandalf!
+
+2433   2434   - Take it!
+
+2434   2436   - You must take it!
+
+2436   2440   - I'm giving it to you!
+
+2441   2443   I dare not take it.
+
+2444   2446   Not even to keep it safe.
+
+2447   2449   Understand, Frodo...
+
+2450   2454   ...I would use this ring from a desire to do good.
+
+2459   2465   But through me, it would wield a power
+
+2465   2468   - But it cannot stay in the Shire!
+
+2470   2472   No, it can't.
+
+2477   2479   What must I do?
+
+2480   2484   - You must leave. And leave quickly.
+
+2484   2487   Get out of the Shire.
+
+2488   2489   Bree.
+
+2489   2491   - What about you?
+
+2492   2494   ...at the inn of the Prancing Pony.
+
+2494   2498   - And the ring will be safe there?
+
+2498   2500   I don't have any answers.
+
+2502   2507   I must see the head of my order.
+
+2508   2510   He'll know what to do.
+
+2510   2513   You'll have to leave the name
+
+2513   2516   That name is not safe outside the Shire.
+
+2517   2520   Travel only by day.
+
+2521   2524   I can cut across country easily enough.
+
+2526   2528   My dear Frodo.
+
+2528   2531   Hobbits really are amazing creatures.
+
+2531   2534   You can learn all that there is to
+
+2534   2536   And yet, after a hundred years...
+
+2537   2539   ...they can still surprise you.
+
+2540   2542   Get down.
+
+2554   2557   Confound it all, Samwise Gamgee!
+
+2558   2559   I haven't been dropping no eaves. Honest.
+
+2559   2562   I was just cutting the grass under
+
+2562   2565   A little late for trimming the verge, don't you think?
+
+2565   2568   - I heard raised voices.
+
+2568   2569   Nothing important.
+
+2570   2572   That is, I heard a good deal
+
+2572   2574   ...and something about the end of the world but...
+
+2574   2578   Please, Mr. Gandalf, sir, don't hurt me.
+
+2579   2581   No?
+
+2582   2583   Perhaps not.
+
+2585   2588   I've thought of a better use for you.
+
+2590   2593   Come along, Samwise. Keep up.
+
+2594   2596   Be careful, both of you.
+
+2597   2599   The enemy has many spies in his service:
+
+2600   2603   Birds, beasts.
+
+2604   2606   Is it safe?
+
+2608   2609   Never put it on...
+
+2610   2613   ...for the agents of the Dark Lord
+
+2613   2615   Always remember, Frodo...
+
+2615   2618   ...the ring is trying to get back to its master.
+
+2619   2621   It wants to be found.
+
+2661   2663   This is it.
+
+2664   2666   This is what?
+
+2666   2668   If I take one more step...
+
+2669   2673   ...it'll be the farthest away
+
+2677   2679   Come on, Sam.
+
+2687   2689   Remember what Bilbo used to say:
+
+2689   2693   - "It's a dangerous business, Frodo."
+
+2693   2698   You step onto the road,
+
+2698   2702   ... there's no knowing where
+
+2716   2718   Sam.
+
+2721   2722   Wood-elves.
+
+2736   2740   They're going to the harbor
+
+2740   2742   To the Grey Havens.
+
+2743   2745   They're leaving Middle-earth.
+
+2745   2747   Never to return.
+
+2750   2752   I don't know why...
+
+2753   2755   ...it makes me sad.
+
+2757   2762   Everywhere I lie there's a dirty
+
+2763   2764   Just shut your eyes...
+
+2764   2767   ...and imagine you're back in your own bed...
+
+2767   2771   ...with a soft mattress and a lovely feather pillow.
+
+2781   2783   It's not working, Mr. Frodo.
+
+2783   2786   I'm never going to be able to sleep out here.
+
+2789   2791   Me neither, Sam.
+
+2820   2823   Smoke rises from the Mountain of Doom.
+
+2823   2824   The hour grows late.
+
+2825   2828   And Gandalf the Grey rides to Isengard...
+
+2829   2831   ...seeking my counsel.
+
+2831   2835   For that is why you have come, is it not?
+
+2835   2836   My old friend.
+
+2837   2838   Saruman.
+
+2843   2846   - You are sure of this?
+
+2847   2849   So the ring of power has been found.
+
+2850   2853   All these long years, it was in the Shire.
+
+2853   2856   - Under my very nose.
+
+2857   2861   Your love of the halfling's leaf
+
+2862   2866   But we still have time.
+
+2866   2868   Time?
+
+2869   2871   What time do you think we have?
+
+2872   2875   Sauron has regained much of his former strength.
+
+2876   2878   He cannot yet take physical form...
+
+2878   2881   ...but his spirit has lost none of its potency.
+
+2882   2886   Concealed within his fortress,
+
+2887   2893   His gaze pierces cloud, shadow, earth and flesh.
+
+2895   2898   You know of what I speak, Gandalf.
+
+2899   2904   A great eye, lidless, wreathed in flame.
+
+2905   2907   The eye of Sauron.
+
+2907   2909   He is gathering all evil to him.
+
+2910   2912   Very soon, he'll have summoned an army...
+
+2912   2915   ...great enough for an assault upon Middle-earth.
+
+2915   2917   You know this?
+
+2918   2920   How?
+
+2920   2922   I have seen it.
+
+2922   2925   A palantir is a dangerous tool, Saruman.
+
+2926   2928   Why?
+
+2928   2931   Why should we fear to use it?
+
+2934   2937   They are not all accounted for,
+
+2938   2941   We do not know who else may be watching.
+
+2943   2946   The hour is later than you think.
+
+2946   2949   Sauron's forces are already moving.
+
+2951   2954   The Nine have left Minas Morgul.
+
+2954   2955   The Nine?
+
+2955   2958   They crossed the river Isen on Midsummer's Eve...
+
+2959   2961   ...disguised as riders in black.
+
+2961   2965   - They've reached the Shire?
+
+2967   2969   And kill the one who carries it.
+
+2970   2971   Frodo!
+
+2984   2988   You did not seriously think that a hobbit
+
+2989   2992   There are none who can.
+
+2994   2997   Against the power of Mordor...
+
+2997   3000   ...there can be no victory.
+
+3002   3005   We must join with him, Gandalf.
+
+3006   3008   We must join with Sauron.
+
+3011   3014   It would be wise, my friend.
+
+3014   3016   Tell me...
+
+3016   3018   ...friend...
+
+3018   3022   ...when did Saruman the Wise abandon reason for madness?
+
+3062   3064   I gave you the chance of...
+
+3065   3068   ...aiding me willingly...
+
+3068   3072   ...but you have elected the way of pain!
+
+3095   3097   Mr. Frodo?
+
+3097   3099   Frodo? Frodo!
+
+3101   3104   - I thought I'd lost you.
+
+3104   3107   - It's just something Gandalf said.
+
+3108   3112   "Don't you lose him, Samwise Gamgee."
+
+3112   3116   Sam, we're still in the Shire.
+
+3119   3120   Frodo.
+
+3120   3122   - Merry, it's Frodo Baggins.
+
+3122   3124   Get off him.
+
+3124   3126   Come on, Frodo.
+
+3126   3128   What's the meaning of this?
+
+3128   3131   You've been into Farmer Maggot's crop!
+
+3132   3135   You get back here!
+
+3136   3137   Get out of my field!
+
+3137   3140   You'll know the devil if I catch up with you!
+
+3140   3143   I don't know why he's so upset.
+
+3143   3144   And some cabbages.
+
+3145   3147   And those three bags of potatoes
+
+3148   3152   - And then the mushrooms the week before.
+
+3152   3154   ...he's clearly overreacting.
+
+3154   3156   Run!
+
+3169   3172   Oh, that was close.
+
+3173   3176   I think I've broken something.
+
+3177   3179   Trust a Brandybuck and a Took!
+
+3180   3183   What? That was just a detour.
+
+3183   3186   - Short cut to what?
+
+3194   3196   That's mine.
+
+3199   3200   That's nice, Merry.
+
+3201   3203   Here's a nice one, Sam.
+
+3203   3205   I think we should get off the road.
+
+3215   3216   Get off the road!
+
+3216   3218   Quick!
+
+3231   3232   Be quiet!
+
+3298   3300   What was that?
+
+3333   3335   Anything?
+
+3335   3337   Nothing.
+
+3338   3340   What is going on?
+
+3340   3344   That Black Rider was looking for something.
+
+3346   3347   Frodo?
+
+3348   3349   Get down!
+
+3366   3368   I have to leave the Shire.
+
+3369   3371   Sam and I must get to Bree.
+
+3371   3373   Right.
+
+3374   3376   Bucklebury Ferry. Follow me.
+
+3385   3386   Run!
+
+3387   3389   This way! Follow me!
+
+3393   3394   Run!
+
+3407   3409   Get the rope, Sam!
+
+3412   3413   Frodo!
+
+3414   3415   Run, Frodo!
+
+3416   3417   Go!
+
+3417   3419   Frodo, come on!
+
+3421   3423   - Come on! Faster!
+
+3438   3442   - How far to the nearest crossing?
+
+3456   3458   Come on.
+
+3469   3472   - What do you want?
+
+3476   3479   Hobbits. Four hobbits!
+
+3479   3483   What's more, out of the Shire by your talk.
+
+3483   3486   We wish to stay at the inn.
+
+3488   3490   All right young sir, I meant no offense.
+
+3490   3493   It's my job to ask questions after nightfall.
+
+3493   3496   There's talk of strange folk abroad.
+
+3496   3498   Can't be too careful.
+
+3518   3521   Out of the way!
+
+3546   3547   Excuse me.
+
+3548   3551   Good evening, little masters.
+
+3551   3557   If you're looking for accommodation, we got
+
+3557   3562   Always proud to cater to little folk, Mister...?
+
+3563   3565   Underhill. My name's Underhill.
+
+3567   3569   - Underhill, yeah.
+
+3569   3572   - Can you tell him we've arrived?
+
+3573   3574   Gandalf.
+
+3575   3577   Oh, yes...
+
+3577   3579   ...I remember. Elderly chap.
+
+3580   3583   Big grey beard, pointy hat.
+
+3583   3585   Not seen him for six months.
+
+3592   3593   What do we do now?
+
+3600   3601   Sam...
+
+3602   3603   ...he'll be here. He'll come.
+
+3606   3608   Get out of my way!
+
+3611   3612   What's that?
+
+3613   3615   This, my friend, is a pint.
+
+3615   3617   It comes in pints?
+
+3617   3621   - I'm getting one.
+
+3627   3631   That fellow's done nothing but
+
+3635   3636   Excuse me.
+
+3638   3641   That man in the corner. Who is he?
+
+3642   3646   He's one of them Rangers. They're dangerous
+
+3647   3651   What his right name is, I've never heard,
+
+3654   3655   Strider.
+
+3668   3671   Baggins...
+
+3674   3677   Baggins...
+
+3682   3684   Baggins...
+
+3685   3688   Baggins...
+
+3688   3691   Baggins...
+
+3692   3694   He's over there. Frodo Baggins.
+
+3695   3698   He's my second cousin,
+
+3698   3700   ...and my third cousin, twice removed....
+
+3705   3706   - Pippin!
+
+3736   3738   You cannot hide.
+
+3741   3744   I see you.
+
+3746   3749   There is no life...
+
+3749   3751   ...in the void.
+
+3751   3753   Only...
+
+3754   3755   ...death.
+
+3761   3766   You draw far too much attention
+
+3771   3772   What do you want?
+
+3772   3774   A little more caution from you.
+
+3775   3778   - I carry nothing.
+
+3778   3780   I can avoid being seen if I wish...
+
+3781   3784   ...but to disappear entirely, that is a rare gift.
+
+3785   3787   - Who are you?
+
+3789   3790   Yes.
+
+3790   3794   Not nearly frightened enough.
+
+3798   3800   Let him go!
+
+3802   3806   You have a stout heart, little hobbit.
+
+3806   3809   You can no longer wait for the wizard, Frodo.
+
+3809   3810   They're coming.
+
+3894   3896   What are they?
+
+3898   3900   They were once men.
+
+3900   3902   Great kings of men.
+
+3903   3906   Then Sauron the Deceiver gave to them
+
+3907   3910   Blinded by their greed,
+
+3910   3913   One by one, falling into darkness.
+
+3913   3916   Now they are slaves to his will.
+
+3918   3920   They are the Nazgûl.
+
+3920   3923   Ringwraiths. Neither living nor dead.
+
+3924   3925   At all times they feel...
+
+3925   3927   ... the presence of the ring...
+
+3927   3932   ...drawn to the power of the One.
+
+3942   3945   - Where are you taking us?
+
+3953   3957   How can we know this Strider
+
+3957   3960   I think a servant of the enemy would look fairer...
+
+3961   3964   ...and feel fouler.
+
+3965   3968   We have no choice but to trust him.
+
+3968   3971   - But where is he leading us?
+
+3974   3977   - To the house of Elrond.
+
+3978   3980   We're going to see the elves.
+
+4002   4006   - Gentlemen, we do not stop till nightfall.
+
+4007   4009   - You've already had it.
+
+4009   4012   What about second breakfast?
+
+4015   4018   Don't think he knows about second breakfast, Pip.
+
+4019   4024   What about elevenses? Luncheon?
+
+4024   4028   - He knows about them, doesn't he?
+
+4034   4035   Pippin!
+
+4052   4055   What do they eat when they can't get Hobbit?
+
+4094   4096   Who is she?
+
+4097   4099   This woman you sing of.
+
+4103   4105   'Tis the lady of Luthien.
+
+4105   4110   The elf-maiden who gave her
+
+4112   4115   What happened to her?
+
+4117   4119   She died.
+
+4123   4126   Get some sleep, Frodo.
+
+4136   4140   The power of Isengard is at your command...
+
+4140   4144   ... Sauron, Lord of the Earth.
+
+4148   4154   Build me an army worthy of Mordor.
+
+4159   4164   What orders from Mordor, my lord?
+
+4164   4166   We have work to do.
+
+4209   4213   The trees are strong, my lord.
+
+4214   4216   Rip them all down.
+
+4243   4246   This was the great watchtower of Amon Sûl.
+
+4248   4250   We shall rest here tonight.
+
+4262   4265   These are for you.
+
+4266   4268   I'm going to have a look around.
+
+4271   4273   Stay here.
+
+4275   4277   My tomato's burst.
+
+4278   4279   Could I have some bacon?
+
+4280   4282   Want a tomato, Sam?
+
+4282   4286   - What are you doing?!
+
+4286   4288   - We saved some for you, Mr. Frodo.
+
+4289   4293   - Put it out!
+
+4301   4303   Go!
+
+4356   4358   Back, you devils!
+
+4441   4443   Frodo!
+
+4447   4448   Oh, Sam.
+
+4486   4487   Strider!
+
+4489   4495   - Help him, Strider.
+
+4496   4501   This is beyond my skill to heal.
+
+4506   4507   Hurry!
+
+4507   4511   We're six days from Rivendell!
+
+4511   4513   Hold on, Frodo.
+
+4514   4516   Gandalf!
+
+4579   4581   Gwaihir - Go.
+
+4674   4677   Look, Frodo. It's Mr. Bilbo's trolls.
+
+4679   4682   Mr. Frodo? He's going cold.
+
+4685   4686   Is he going to die?
+
+4687   4691   He's passing into the shadow world.
+
+4697   4700   - They're close.
+
+4701   4702   - Athelas?
+
+4702   4703   Kingsfoil, aye, it's a weed.
+
+4704   4707   It may help to slow the poisoning.
+
+4721   4725   What's this, a ranger caught off his guard?
+
+4750   4752   Frodo.
+
+4768   4770   Who is she?
+
+4771   4772   Frodo.
+
+4773   4776   - She's an elf.
+
+4779   4781   He's not going to last.
+
+4781   4783   We must get him to my father.
+
+4784   4787   - I've been looking for you for two days.
+
+4787   4793   There are five wraiths behind you.
+
+4801   4802   What are they saying?
+
+4809   4810   I do not fear them.
+
+4820   4821   Arwen...
+
+4822   4825   ...ride hard. Don't Look back.
+
+4830   4834   What are you doing?!
+
+4949   4952   Give up the halfling, She-elf.
+
+4953   4955   If you want him, come and claim him.
+
+5009   5011   No. No!
+
+5015   5017   Frodo, no.
+
+5017   5019   Frodo, don't give in.
+
+5020   5022   Not now.
+
+5033   5035   What grace is given me...
+
+5036   5038   ...let it pass to him.
+
+5038   5040   Let him be spared.
+
+5041   5043   Save him.
+
+5055   5060   - Where am I?
+
+5061   5067   And it is 10 o'clock in the morning
+
+5069   5073   - Gandalf!
+
+5075   5078   And you're lucky to be here too.
+
+5078   5082   A few more hours and you would
+
+5083   5086   But you have some strength in you,
+
+5094   5097   What happened, Gandalf?
+
+5098   5103   - Why didn't you meet us?
+
+5108   5109   I was delayed.
+
+5111   5115   A friendship with Saruman
+
+5119   5123   One ill turn deserves another. It is over.
+
+5124   5126   Embrace the power of the ring...
+
+5127   5130   ...or embrace your own destruction!
+
+5132   5136   There is only one lord of the ring.
+
+5136   5140   Only one who can bend it to his will.
+
+5141   5145   And he does not share power.
+
+5159   5162   So you have chosen...death.
+
+5173   5176   Gandalf? What is it?
+
+5177   5179   Nothing, Frodo.
+
+5180   5182   Frodo!
+
+5183   5185   - Sam.
+
+5186   5188   Sam has hardly left your side.
+
+5189   5191   We were that worried about you.
+
+5191   5196   By the skills of Lord Elrond,
+
+5198   5201   Welcome to Rivendell, Frodo Baggins.
+
+5250   5253   - Bilbo!
+
+5253   5255   Bilbo.
+
+5260   5262   There and back again
+
+5262   5264   A hobbit's Tale, by Bilbo Baggins.''
+
+5268   5271   - This is wonderful.
+
+5271   5275   ...wonder at the powers of Mirkwood...
+
+5276   5278   ...visit Lake-town...
+
+5278   5281   ...see the Lonely Mountain again.
+
+5282   5287   But age, it seems, has finally caught up with me.
+
+5299   5301   I miss the Shire.
+
+5301   5306   I spent all my childhood pretending
+
+5307   5310   Off with you, on one of your adventures.
+
+5313   5317   But my own adventure turned out
+
+5322   5325   I'm not like you, Bilbo.
+
+5327   5329   My dear boy.
+
+5333   5337   - Now, what have I forgotten?
+
+5338   5339   No harm in being prepared.
+
+5340   5342   - I thought you wanted to see the elves.
+
+5342   5345   - More than anything.
+
+5345   5347   It's just....
+
+5348   5351   We did what Gandalf wanted, didn't we?
+
+5351   5354   We got the ring this far, to Rivendell.
+
+5355   5358   ...seeing as how you're on the mend,
+
+5358   5360   Off home.
+
+5364   5366   You are right, Sam.
+
+5368   5371   We did what we set out to do.
+
+5372   5374   The ring will be safe in Rivendell.
+
+5378   5381   I am ready to go home.
+
+5381   5383   His strength returns.
+
+5384   5389   That wound will never fully heal.
+
+5390   5392   And yet to have come so far still bearing the ring...
+
+5393   5396   ...the Hobbit has shown extraordinary
+
+5397   5400   It is a burden he should never have had to bear.
+
+5400   5405   - We can ask no more of Frodo.
+
+5406   5410   Sauron's forces are massing in the East.
+
+5411   5413   And Saruman, you tell me, has betrayed us.
+
+5414   5417   Our list of allies grows thin.
+
+5418   5420   His treachery runs deeper than you know.
+
+5421   5424   By foul craft, Saruman
+
+5425   5427   He's breeding an army in the caverns of Isengard.
+
+5427   5432   An army that can move in sunlight
+
+5432   5434   Saruman is coming for the ring.
+
+5435   5439   This evil cannot be concealed
+
+5439   5443   We do not have the strength to
+
+5447   5448   Gandalf...
+
+5450   5452   ...the ring cannot stay here.
+
+5472   5475   This peril belongs to all Middle-earth.
+
+5475   5478   They must decide now how to end it.
+
+5479   5482   The time of the elves is over.
+
+5483   5487   Who will you look to when we've gone?
+
+5487   5492   They hide in mountains seeking riches.
+
+5494   5497   It is in men that we must place our hope.
+
+5497   5499   Men?
+
+5500   5503   Men are weak. The race of men is failing.
+
+5503   5507   The blood of Numenor is all but spent,
+
+5508   5511   It is because of men the ring survives.
+
+5512   5513   I was there, Gandalf.
+
+5514   5517   I was there 3000 years ago...
+
+5523   5526   ... when Isildur took the ring.
+
+5526   5530   I was there the day the strength of men failed.
+
+5532   5535   Isildur, hurry! Follow me.
+
+5537   5540   I led Isildur into the heart of Mount Doom...
+
+5541   5544   ...where the ring was forged,
+
+5544   5547   Cast it into the fire!
+
+5552   5556   - Destroy it!
+
+5557   5559   Isildur!
+
+5560   5564   It should have ended that day,
+
+5569   5573   Isildur kept the ring.
+
+5574   5577   There's no strength left in the world of men.
+
+5578   5582   - They're scattered, divided, leaderless.
+
+5583   5586   One who could reclaim the throne of Gondor.
+
+5588   5591   He turned from that path a long time ago.
+
+5592   5594   He has chosen exile.
+
+5625   5627   You are no elf.
+
+5627   5629   Men of the South are welcome here.
+
+5630   5633   - Who are you?
+
+5635   5637   Then we are here on common purpose...
+
+5638   5639   ...friend.
+
+5655   5657   The shards of Narsil.
+
+5661   5665   The blade that cut the ring from Sauron's hand.
+
+5668   5671   It's still sharp.
+
+5680   5682   But no more than a broken heirloom.
+
+5709   5712   Why do you fear the past?
+
+5713   5718   You are Isildur's heir, not Isildur himseIf.
+
+5719   5722   You are not bound to his fate.
+
+5723   5727   The same blood flows in my veins.
+
+5730   5732   The same weakness.
+
+5735   5738   Your time will come.
+
+5738   5742   You will face the same evil.
+
+5793   5796   You said you'd bind yourself to me...
+
+5798   5803   ...forsaking the immortal life of your people.
+
+5804   5806   And to that I hold.
+
+5806   5809   I would rather share one lifetime with you...
+
+5810   5814   ...than face all the ages of this world alone.
+
+5822   5826   I choose a mortal life.
+
+5827   5831   - You cannot give me this.
+
+5835   5837   ...like my heart.
+
+5853   5857   Strangers from distant lands, friends of old...
+
+5857   5861   ...you've been summoned here
+
+5862   5866   Middle-earth stands upon the brink of destruction.
+
+5867   5870   You will unite, or you will fall.
+
+5870   5875   Each race is bound to this fate, this one doom.
+
+5877   5880   Bring forth the ring, Frodo.
+
+5894   5896   So it is true.
+
+5906   5907   The ring of power...
+
+5909   5911   The doom of men...
+
+5913   5915   In a dream...
+
+5917   5920   ...I saw the eastern sky grow dark...
+
+5920   5922   ...but in the West a pale light lingered.
+
+5923   5925   A voice was crying:
+
+5925   5928   "Your doom is near at hand.
+
+5929   5932   Isildur's bane is found."
+
+5936   5937   Isildur’s bane.
+
+5938   5938   Boromir!
+
+5963   5966   Never before has any voice uttered the
+
+5967   5970   I do not ask your pardon, Master Elrond...
+
+5970   5972   ...for the black speech of Mordor...
+
+5973   5974   ...may yet be heard...
+
+5974   5977   ...in every corner of the West!
+
+5978   5980   The ring is altogether evil.
+
+5981   5982   It is a gift.
+
+5983   5985   A gift to the foes of Mordor.
+
+5985   5987   Why not use this ring?
+
+5988   5990   Long has my father, the Steward of Gondor...
+
+5991   5995   ...kept the forces of Mordor at bay.
+
+5995   5997   ...are your lands kept safe.
+
+5999   6003   Give Gondor the weapon of the enemy.
+
+6004   6007   You cannot wield it. None of us can.
+
+6008   6012   The One Ring answers to Sauron alone.
+
+6013   6016   And what would a ranger know of this matter?
+
+6016   6018   This is no mere ranger.
+
+6019   6023   He is Aragorn, son of Arathorn.
+
+6023   6026   You owe him your allegiance.
+
+6030   6032   Aragorn.
+
+6034   6037   This is Isildur’s heir?
+
+6039   6042   And heir to the throne of Gondor.
+
+6049   6052   Gondor has no king.
+
+6054   6055   Gondor needs no king.
+
+6062   6066   Aragorn is right. We cannot use it.
+
+6067   6070   You have only one choice.
+
+6070   6073   The ring must be destroyed.
+
+6078   6080   What are we waiting for?
+
+6093   6096   The ring cannot be destroyed, Gimli, son of Gloin...
+
+6096   6100   ...by any craft that we here possess.
+
+6101   6105   The ring was made in the fires of Mount Doom.
+
+6105   6109   Only there can it be unmade.
+
+6110   6112   It must be taken deep into Mordor...
+
+6113   6117   ...and cast back into the fiery
+
+6120   6122   One of you...
+
+6122   6124   ...must do this.
+
+6127   6131   One does not simply walk into Mordor.
+
+6132   6135   Its black gates are guarded by more than just orcs.
+
+6136   6140   There is evil there that does not sleep.
+
+6141   6145   The great eye is ever-watchful.
+
+6146   6148   It is a barren wasteland...
+
+6148   6151   ...riddled with fire, and ash and dust.
+
+6152   6156   The very air you breathe is a poisonous fume.
+
+6156   6160   Not with 10,000 men could you do this.
+
+6160   6165   Have you heard nothing Lord Elrond has said?
+
+6165   6167   And I suppose you think you are the one to do it!
+
+6168   6172   And if we fail, what then? What happens
+
+6173   6178   I will be dead before I see the
+
+6180   6182   Never trust an elf!
+
+6184   6189   Do you not understand? While you bicker
+
+6190   6193   None can escape it!
+
+6211   6213   I will take it.
+
+6216   6218   I will take it.
+
+6224   6227   I will take the ring to Mordor.
+
+6235   6236   Though...
+
+6240   6241   ...I do not know the way.
+
+6243   6247   I will help you bear this burden, Frodo Baggins...
+
+6248   6251   ...as long as it is yours to bear.
+
+6252   6255   If by my life or death I can protect you...
+
+6256   6257   ...I will.
+
+6261   6263   You have my sword.
+
+6265   6267   And you have my bow.
+
+6268   6270   And my ax.
+
+6277   6280   You carry the fates of us all, little one.
+
+6282   6286   If this is indeed the will of the Council...
+
+6286   6289   ...then Gondor will see it done.
+
+6291   6296   - Mr. Frodo's not going anywhere without me.
+
+6296   6301   ...even when he is summoned to a
+
+6302   6303   Hey. We're coming too!
+
+6306   6308   You'll have to send us home
+
+6309   6312   Anyway, you need people
+
+6312   6313   ...mission.
+
+6314   6315   Quest.
+
+6316   6317   Thing.
+
+6319   6321   Well, that rules you out, Pip.
+
+6323   6325   Nine companions.
+
+6327   6328   So be it.
+
+6329   6332   You shall be: The Fellowship of the Ring.
+
+6332   6334   Great!
+
+6335   6337   Where are we going?
+
+6383   6387   In her heart, your mother knew
+
+6387   6389   That you'd never escape your fate.
+
+6390   6393   The skill of the elves can reforge
+
+6394   6397   ...but only you have the power to wield it.
+
+6399   6401   I do not want that power.
+
+6401   6404   I have never wanted it.
+
+6405   6408   You are the last of that bloodline.
+
+6412   6415   My old sword! Sting.
+
+6415   6416   Here, take it. Take it.
+
+6421   6425   - It's so light.
+
+6426   6430   The blade glows blue when orcs are close.
+
+6431   6435   And it's times like that, my lad,
+
+6435   6438   Here's a pretty thing.
+
+6438   6439   Mithril.
+
+6440   6444   As light as a feather, and as hard as dragon scales.
+
+6445   6448   Let me see you put it on. Come on.
+
+6456   6458   My old ring.
+
+6459   6463   I should very much like...
+
+6464   6467   ...to hold it again, one last time.
+
+6485   6488   I'm sorry I brought this upon you, my boy.
+
+6489   6493   I'm sorry that you must carry this burden.
+
+6498   6501   I'm sorry for everything.
+
+6516   6520   The ring-bearer is setting out
+
+6521   6524   On you who travel with him, no oath...
+
+6524   6527   ...nor bond is laid to go further than you will.
+
+6531   6533   Farewell. Hold to your purpose.
+
+6533   6537   May the blessings of elves and men...
+
+6538   6541   ...and all free folk go with you.
+
+6544   6548   The fellowship awaits the ring-bearer.
+
+6566   6569   Mordor, Gandalf, is it left or right?
+
+6569   6571   Left.
+
+6651   6655   We must hold to this course, west
+
+6655   6659   If our luck holds, the Gap of Rohan
+
+6659   6663   From there, our road turns east to Mordor.
+
+6663   6667   Two, one, five. Good! Very good.
+
+6669   6670   Move your feet.
+
+6670   6671   - You look good, Pippin.
+
+6672   6673   Faster!
+
+6674   6678   If anyone was to ask for my opinion,
+
+6678   6681   ...I'd say we were taking the long way 'round.
+
+6682   6684   Gandalf.
+
+6685   6689   My cousin Balin would give us a royal welcome.
+
+6689   6694   No Gimli, I would not take the road through
+
+6704   6705   Sorry!
+
+6706   6707   Get him!
+
+6709   6711   - For the Shire!
+
+6712   6714   Gentlemen, that's enough.
+
+6718   6719   You've got my arm!
+
+6720   6722   - What is that?
+
+6723   6725   It's moving fast.
+
+6726   6728   Against the wind.
+
+6729   6731   - Crebain from Dunland!
+
+6731   6734   - Hurry!
+
+6767   6769   Spies of Saruman.
+
+6770   6773   The passage south is being watched.
+
+6774   6777   We must take the pass of Caradhras.
+
+6790   6792   Frodo!
+
+6811   6813   Boromir.
+
+6813   6817   It is a strange fate that we should
+
+6818   6821   ...over so small a thing.
+
+6824   6826   Such a little thing.
+
+6826   6828   Boromir!
+
+6828   6831   Give the ring to Frodo.
+
+6841   6843   As you wish.
+
+6843   6845   I care not.
+
+6881   6885   So, Gandalf, you try to lead them over Caradhras.
+
+6886   6890   And if that fails, where then will you go?
+
+6892   6895   If the mountain defeats you...
+
+6895   6899   ... will you risk a more dangerous road?
+
+6904   6911   Cuiva nwalca Carnirasse!
+
+6912   6914   There is a fell voice on the air.
+
+6915   6916   Nai yarvaxea rasselya!
+
+6916   6917   It's Saruman!
+
+6926   6931   He's trying to bring down the mountain!
+
+6931   6933   No!
+
+6999   7001   We must get off the mountain!
+
+7002   7006   Make for the Gap of Rohan,
+
+7006   7009   The Gap of Rohan takes us too close to Isengard!
+
+7010   7013   We cannot pass over a mountain.
+
+7014   7016   Let us go through the mines of Moria.
+
+7018   7022   Moria. You fear to go into those mines.
+
+7023   7028   The dwarves delved too greedily and too deep.
+
+7029   7033   You know what they awoke
+
+7035   7038   Shadow and flame.
+
+7042   7044   Let the ring-bearer decide.
+
+7049   7051   We cannot stay here!
+
+7051   7054   This will be the death of the hobbits.
+
+7054   7056   Frodo?
+
+7059   7062   We will go through the mines.
+
+7063   7065   So be it.
+
+7071   7075   Frodo, come and help an old man.
+
+7079   7081   How is your shoulder?
+
+7081   7084   - Better than it was.
+
+7086   7088   You feel its power growing, don't you?
+
+7089   7092   I've felt it too.
+
+7092   7096   Evil will be drawn to you from
+
+7096   7099   And, I fear, from within.
+
+7102   7106   - Who then do I trust?
+
+7106   7109   Trust your own strengths.
+
+7109   7111   - What do you mean?
+
+7112   7114   ...for good or for evil.
+
+7114   7116   Some are greater than I am.
+
+7117   7120   And against some I have not yet been tested.
+
+7122   7123   The walls...
+
+7124   7126   ...of Moria.
+
+7132   7135   Dwarf doors are invisible when closed.
+
+7135   7139   Yes, Gimli, their own masters cannot find
+
+7140   7142   Why doesn't that surprise me?
+
+7150   7153   Well, let's see.
+
+7154   7155   Ithildin.
+
+7156   7159   It mirrors only starlight and moonlight.
+
+7173   7178   It reads; "The Doors of Durin, Lord of Moria.
+
+7178   7183   - Speak, friend, and enter."
+
+7183   7187   Oh It's quite simple. If you are a friend,
+
+7211   7212   Nothing's happening.
+
+7219   7223   I once knew every spell in
+
+7224   7227   ...men and orcs.
+
+7227   7228   What are you going to do, then?
+
+7228   7230   Knock your head against these doors,
+
+7231   7233   And if that does not shatter them...
+
+7233   7236   ...and I am allowed a little
+
+7236   7239   ...I will try to find the opening words.
+
+7252   7255   Mines are no place for a pony.
+
+7255   7259   - Even one so brave as Bill.
+
+7260   7263   Go on, Bill. Go on.
+
+7264   7267   Don't worry, Sam, he knows the way home.
+
+7274   7276   Do not disturb the water.
+
+7277   7279   Oh, it's useless.
+
+7291   7293   It's a riddle.
+
+7296   7299   "Speak 'friend' and enter."
+
+7300   7303   What's the elvish word for "friend"?
+
+7304   7305   Mellon.
+
+7323   7328   Soon, master elf, you will enjoy
+
+7329   7334   Roaring fires, malt beer, ripe meat off the bone!
+
+7336   7339   This, my friend, is the home of my cousin Balin.
+
+7339   7342   And they call it a mine.
+
+7342   7344   A mine!
+
+7345   7348   This is no mine. It's a tomb.
+
+7354   7356   No....
+
+7357   7359   No!
+
+7362   7363   Goblins.
+
+7367   7371   We make for the Gap of Rohan.
+
+7372   7375   Now, get out of here. Get out!
+
+7378   7380   - Frodo!
+
+7380   7382   Strider!
+
+7382   7385   - Help!
+
+7385   7386   Aragorn!
+
+7397   7398   Frodo!
+
+7424   7425   Into the mines!
+
+7425   7428   - Legolas!
+
+7433   7434   Run!
+
+7451   7455   We now have but one choice.
+
+7455   7460   We must face the long dark of Moria.
+
+7460   7462   Be on your guard.
+
+7462   7466   There are older and fouler things than orcs...
+
+7466   7469   ...in the deep places of the world.
+
+7478   7481   Quietly now.
+
+7482   7485   Let us hope that our presence may go unnoticed.
+
+7531   7535   The wealth of Moria was not in gold...
+
+7535   7538   ...or jewels...
+
+7538   7541   ...but mithril.
+
+7559   7564   Bilbo had a shirt of mithril rings
+
+7564   7568   - Oh, that was a kingly gift.
+
+7568   7570   I never told him...
+
+7571   7575   ...but its worth was greater
+
+7588   7589   Pippin.
+
+7610   7613   I have no memory of this place.
+
+7615   7616   - Are we Lost?
+
+7617   7619   - I think we are.
+
+7619   7621   - Merry?
+
+7621   7623   I'm hungry.
+
+7634   7638   - There's something down there.
+
+7639   7643   - Gollum?
+
+7643   7647   - He escaped the dungeons of Barad-dûr?
+
+7648   7650   ...or was set loose.
+
+7650   7654   Now the ring has brought him here.
+
+7656   7659   He will never be rid of his need for it.
+
+7660   7665   He hates and loves the ring,
+
+7665   7670   Sméagol's life is a sad story.
+
+7670   7676   Yes, Sméagol he was once called.
+
+7677   7680   Before it drove him mad.
+
+7680   7683   It's a pity Bilbo didn't kill him
+
+7683   7685   Pity?
+
+7686   7689   It is pity that stayed Bilbo's hand.
+
+7690   7695   Many that live deserve death.
+
+7696   7699   Can you give it to them, Frodo?
+
+7701   7705   Do not be too eager to deal
+
+7705   7708   Even the very wise cannot see all ends.
+
+7709   7714   My heart tells me that Gollum has some
+
+7716   7718   ...before this is over.
+
+7720   7724   The pity of Bilbo may rule the fate of many.
+
+7730   7734   I wish the ring had never come to me.
+
+7735   7737   I wish none of this had happened.
+
+7737   7742   So do all who live to see such times.
+
+7743   7749   All we have to decide is what to do
+
+7750   7754   There are other forces at work in this
+
+7755   7757   Bilbo was meant to find the ring.
+
+7758   7762   In which case, you also were meant to have it.
+
+7762   7765   And that is an encouraging thought.
+
+7770   7772   It's that way.
+
+7772   7775   - He's remembered.
+
+7775   7778   But the air doesn't smell so foul down here.
+
+7779   7784   If in doubt, Meriadoc, always follow your nose.
+
+7799   7803   Let me risk a little more light.
+
+7808   7810   Behold...
+
+7810   7815   ...the great realm and dwarf-city of Dwarrowdelf.
+
+7818   7821   Now there's an eye opener, and no mistake.
+
+7846   7848   Gimli!
+
+7855   7857   No!
+
+7860   7863   Oh, no.
+
+7865   7866   No.
+
+7873   7875   "Here lies Balin...
+
+7876   7878   ...son of Fundin...
+
+7878   7880   ...Lord of Moria."
+
+7882   7883   He is dead, then.
+
+7885   7887   It's as I feared.
+
+7905   7908   We must move on. We cannot linger.
+
+7908   7913   "They have taken the bridge and the second hall.
+
+7914   7916   We have barred the gates...
+
+7917   7919   ...but cannot hold them for long.
+
+7920   7922   The ground shakes.
+
+7923   7924   Drums...
+
+7925   7928   ...drums in the deep.
+
+7932   7934   We cannot get out.
+
+7936   7940   A shadow moves in the dark.
+
+7941   7944   We cannot get out.
+
+7947   7949   They are coming."
+
+7992   7994   Fool of a Took!
+
+7994   7998   Throw yourself in next time,
+
+8024   8026   Frodo!
+
+8028   8029   Orcs.
+
+8037   8038   Get back! Stay close to Gandalf!
+
+8046   8047   They have a cave-troll.
+
+8063   8064   Let them come!
+
+8065   8068   There is one dwarf yet in Moria
+
+8207   8210   I think I'm getting the hang of this.
+
+8215   8217   Frodo!
+
+8250   8252   Aragorn! Aragorn!
+
+8253   8255   Frodo!
+
+8300   8302   Frodo!
+
+8362   8363   Oh, no.
+
+8372   8374   He's alive.
+
+8376   8379   I'm all right. I'm not hurt.
+
+8379   8381   You should be dead.
+
+8382   8384   That spear would have skewered a wild boar.
+
+8384   8389   I think there's more to this
+
+8395   8396   Mithril.
+
+8399   8401   You are full of surprises, Master Baggins.
+
+8407   8409   To the bridge of Khazad-dûm!
+
+8424   8426   This way!
+
+8497   8499   What is this new devilry?
+
+8516   8518   A Balrog.
+
+8519   8522   A demon of the ancient world.
+
+8524   8526   This foe is beyond any of you.
+
+8528   8529   Run!
+
+8536   8538   Quickly!
+
+8555   8556   Gandalf.
+
+8557   8558   Lead them on, Aragorn.
+
+8560   8562   The bridge is near.
+
+8564   8568   Do as I say!
+
+8597   8599   Gandalf!
+
+8617   8619   Merry! Pippin!
+
+8630   8631   Sam!
+
+8634   8637   Nobody tosses a Dwarf.
+
+8640   8642   Not the beard!
+
+8655   8657   Steady.
+
+8659   8660   Hold on!
+
+8682   8683   Hang on!
+
+8694   8695   Lean forward!
+
+8698   8699   Steady.
+
+8701   8702   Come on!
+
+8702   8703   Now!
+
+8721   8722   Over the bridge!
+
+8723   8724   Fly!
+
+8769   8771   You cannot pass!
+
+8771   8773   Gandalf!
+
+8777   8782   I am a servant of the secret fire,
+
+8783   8787   The dark fire will not avail you, flame of Udûn!
+
+8797   8799   Go back to the Shadow.
+
+8807   8811   You - shall not - pass!
+
+8838   8842   - No! No!
+
+8850   8852   Fly, you fools!
+
+8856   8858   No!
+
+8864   8867   Aragorn!
+
+8924   8927   Legolas, get them up.
+
+8931   8933   Give them a moment, for pity's sake!
+
+8933   8936   By nightfall, these hills will be swarming with orcs.
+
+8937   8940   We must reach the woods of Lothlórien.
+
+8941   8944   Come, Boromir. Legolas.
+
+8946   8948   On your feet, Sam.
+
+8948   8950   Frodo?
+
+8952   8954   Frodo!
+
+9006   9009   Stay close, young hobbits!
+
+9009   9013   They say that a great sorceress
+
+9014   9016   An elf-witch...
+
+9017   9020   ...of terrible power.
+
+9020   9022   All who look upon her...
+
+9023   9024   ...fall under her spell.
+
+9025   9026   Frodo!
+
+9028   9030   And are never seen again.
+
+9030   9035   Your coming to us is as the footsteps of doom.
+
+9035   9039   You bring great evil here, ring-bearer.
+
+9039   9041   Mr. Frodo?
+
+9046   9052   Well, here's one dwarf she won't ensnare so easily.
+
+9052   9056   I have the eyes of a hawk and the ears of a fox.
+
+9064   9069   The dwarf breathes so loud, we
+
+9087   9087   Haldir.
+
+9087   9089   So much for the legendary courtesy of the elves!
+
+9089   9091   Speak words we can all understand!
+
+9091   9096   We have not had dealings with
+
+9096   9099   And you know what this dwarf says to that?
+
+9106   9108   That was not so courteous.
+
+9114   9118   You bring great evil with you.
+
+9120   9122   You can go no further.
+
+9139   9142   Aragorn!
+
+9160   9162   Gandalf's death was not in vain.
+
+9163   9165   Nor would he have you give up hope.
+
+9167   9170   You carry a heavy burden, Frodo.
+
+9171   9174   Don't carry the weight of the dead.
+
+9177   9179   You will follow me.
+
+9191   9193   Cares Galeton.
+
+9193   9196   The heart of Elvendom on earth.
+
+9196   9202   Realm of the Lord Celeborn
+
+9281   9284   The enemy knows you have entered here.
+
+9285   9290   What hope you had in secrecy is now gone.
+
+9292   9296   Eight there are here, yet nine there
+
+9297   9298   Tell me, where is Gandalf?
+
+9299   9302   For I much desire to speak with him.
+
+9302   9304   I can no longer see him from afar.
+
+9306   9310   Gandalf the Grey did not pass
+
+9311   9313   He has fallen into shadow.
+
+9318   9322   He was taken by both shadow and flame.
+
+9324   9328   A Balrog of Morgoth.
+
+9329   9332   For we went needlessly into the net of Moria.
+
+9334   9337   Needless were none of the deeds of Gandalf in life.
+
+9338   9341   We do not yet know his full purpose.
+
+9346   9350   Do not let the great emptiness
+
+9351   9353   ...Gimli, son of Gloin.
+
+9354   9357   For the world has grown full of peril...
+
+9359   9361   ...and in all lands...
+
+9362   9365   ...love is now mingled with grief.
+
+9378   9381   What now becomes of this fellowship?
+
+9381   9384   Without Gandalf, hope is lost.
+
+9387   9390   The quest stands upon the edge of a knife.
+
+9391   9393   Stray but a little and it will fail...
+
+9394   9397   ...to the ruin of all.
+
+9402   9407   Yet hope remains while the company is true.
+
+9409   9413   Do not let your hearts be troubled.
+
+9414   9418   ...for you are weary with sorrow and much toil.
+
+9420   9422   Tonight, you will sleep....
+
+9422   9426   Welcome, Frodo of the Shire...
+
+9427   9429   ...one who has seen the eye!
+
+9444   9446   A lament for Gandalf.
+
+9454   9455   What do they say about him?
+
+9456   9458   I have not the heart to tell you.
+
+9461   9463   For me, the grief is still too near.
+
+9466   9469   I bet they don't mention his fireworks.
+
+9469   9472   There should be a verse about them.
+
+9476   9478   The finest rockets ever seen
+
+9479   9482   They burst in stars of blue and green
+
+9483   9488   Or after thunder, silver showers
+
+9488   9491   Came falling like a rain of flowers
+
+9492   9495   Oh, that doesn't do them justice by a long road.
+
+9506   9509   Take some rest.
+
+9509   9512   These borders are well-protected.
+
+9512   9514   I will find no rest here.
+
+9517   9520   I heard her voice inside my head.
+
+9521   9524   She spoke of my father and the fall of Gondor.
+
+9524   9530   She said to me; "Even now there is hope Left."
+
+9531   9534   But I cannot see it.
+
+9535   9538   It is long since we had any hope.
+
+9548   9550   My father is a noble man.
+
+9551   9553   But his rule is failing...
+
+9556   9559   ...and our people lose faith.
+
+9560   9564   He looks to me to make things right,
+
+9564   9568   I would see the glory of Gondor restored.
+
+9571   9573   Have you ever seen it, Aragorn?
+
+9574   9576   The white tower of Ecthelion.
+
+9576   9580   Glimmering like a spike of pearl and silver.
+
+9581   9584   Its banners caught high in the morning breeze.
+
+9587   9589   Have you ever been called home...
+
+9589   9593   ...by the clear ringing of silver trumpets?
+
+9594   9597   I have seen the white city...
+
+9598   9599   ...long ago.
+
+9600   9605   One day, our paths will lead us there.
+
+9606   9609   And the tower guard shall take up the call:
+
+9609   9613   "The Lords of Gondor have returned."
+
+9680   9682   Will you look into the mirror?
+
+9683   9684   What will I see?
+
+9687   9689   Even the wisest cannot tell.
+
+9690   9692   For the mirror...
+
+9692   9695   ...shows many things.
+
+9698   9700   Things that were...
+
+9701   9703   ...things that are...
+
+9704   9706   ...and some things...
+
+9709   9713   ...that have not yet come to pass.
+
+9795   9798   I know what it is you saw.
+
+9801   9803   For it is also in my mind.
+
+9805   9809   It is what will come to pass if you should fail.
+
+9811   9816   The fellowship is breaking.
+
+9817   9820   He will try to take the ring.
+
+9820   9822   You know of whom I speak.
+
+9823   9828   One by one, it will destroy them all.
+
+9829   9832   If you ask it of me...
+
+9832   9835   ... I will give you the One Ring.
+
+9836   9839   You offer it to me freely.
+
+9843   9847   I do not deny that my heart
+
+9854   9857   In place of a dark lord, you would have a queen...
+
+9857   9861   ...not dark but beautiful and terrible as the dawn!
+
+9862   9865   Treacherous as the sea!
+
+9865   9870   Stronger than the foundations of the earth!
+
+9871   9873   All shall love me...
+
+9873   9876   ...and despair.
+
+9890   9894   I pass the test. I will diminish...
+
+9895   9897   ...and go into the West...
+
+9897   9902   ...and remain Galadriel.
+
+9905   9909   You are a ring-bearer, Frodo.
+
+9910   9912   ...is to be alone.
+
+9915   9918   This is Nenya, the ring of Adamant.
+
+9918   9920   And I am its keeper.
+
+9923   9927   This task was appointed to you.
+
+9928   9931   And if you do not find a way...
+
+9932   9934   ...no one will.
+
+9934   9937   Then I know what I must do.
+
+9938   9939   It's just...
+
+9943   9945   ...I'm afraid to do it.
+
+9948   9953   Even the smallest person can change
+
+9959   9964   Do you know how the orcs first came into being?
+
+9965   9968   They were elves once.
+
+9970   9973   Taken by the dark powers...
+
+9973   9976   ...tortured and mutilated.
+
+9977   9982   A ruined and terrible form of life.
+
+9982   9984   And now...
+
+9986   9988   ...perfected.
+
+9988   9991   My fighting Uruk-hai...
+
+9993   9996   ...whom do you serve?
+
+9996   9998   Saruman!
+
+10019   10023   Hunt them down. Do not stop until they are found.
+
+10023   10026   You do not know pain.
+
+10026   10029   You will taste man-flesh!
+
+10034   10038   One of the halflings carries
+
+10038   10042   Bring them to me alive and unspoiled.
+
+10044   10045   Kill the others.
+
+10064   10070   Never before have we clad strangers
+
+10071   10075   May these cloaks help shield
+
+10082   10084   Lembas.
+
+10084   10085   Elvish waybread.
+
+10088   10091   One small bite is enough to fill
+
+10097   10099   How many did you eat?
+
+10099   10101   Four.
+
+10107   10109   Every league you travel south,
+
+10110   10114   Mordor orcs now hold the
+
+10114   10116   Nor will you find safety on the western bank.
+
+10117   10120   Strange creatures bearing the mark of the
+
+10121   10126   Seldom do orcs journey in the open
+
+10139   10143   By river you have the chance of outrunning
+
+10160   10165   My gift for you, Legolas, is a bow of the Galadhrim.
+
+10165   10169   Worthy of the skill of our woodland kin.
+
+10174   10177   These are the daggers of the Noldorin.
+
+10177   10181   They have already seen service in war.
+
+10181   10183   Do not fear, young Peregrin Took.
+
+10184   10187   You will find your courage.
+
+10189   10191   And for you, Samwise Gamgee...
+
+10191   10194   ...Elven rope made of hithlain.
+
+10194   10196   Thank you, my lady.
+
+10198   10201   Have you run out of those nice, shiny daggers?
+
+10207   10210   And what gift would a dwarf ask of the elves?
+
+10211   10213   Nothing.
+
+10214   10217   Except to look upon the lady
+
+10217   10222   ...for she is more fair than all
+
+10230   10231   Actually....
+
+10231   10233   There was one thing.
+
+10234   10236   No, no, I couIdn't.
+
+10237   10239   Stupid to ask.
+
+10242   10244   I have nothing greater to give...
+
+10244   10248   ...than the gift you already bear.
+
+10273   10276   That choice is yet before her.
+
+10277   10280   You have your own choice to make, Aragorn.
+
+10280   10286   To rise above the height of all your
+
+10286   10291   ...or to fall into darkness
+
+10318   10321   Farewell, Frodo Baggins.
+
+10322   10325   I give you the light of Earendil...
+
+10326   10328   ...our most beloved star.
+
+10337   10342   May it be a light for you in dark places...
+
+10342   10346   ... when all other lights go out.
+
+10355   10358   I have taken my worst wound at this parting...
+
+10359   10363   ...having looked my last upon that which is fairest.
+
+10364   10367   Henceforth I will call nothing fair
+
+10367   10369   What was her gift?
+
+10370   10374   I asked her for one hair from her golden head.
+
+10375   10378   She gave me three.
+
+10480   10484   Gollum. He has tracked us since Moria.
+
+10488   10490   I had hoped we would lose him on the river.
+
+10491   10494   But he's too clever a waterman.
+
+10495   10498   And if he alerts the enemy to our whereabouts...
+
+10498   10500   ...it will make the crossing even more dangerous.
+
+10501   10503   Have some food, Mr. Frodo.
+
+10503   10506   - No, Sam.
+
+10506   10509   You're not sleeping, neither.
+
+10510   10513   - Mr. Frodo
+
+10513   10515   But you're not.
+
+10515   10517   I'm here to help you.
+
+10518   10519   I promised Gandalf that I would.
+
+10525   10528   You can't help me, Sam.
+
+10530   10532   Not this time.
+
+10535   10537   Get some sleep.
+
+10543   10545   Minas Tirith is the safer road.
+
+10546   10549   You know that.
+
+10549   10551   Strike out for Mordor from a place of strength.
+
+10552   10555   There is no strength in Gondor that can avail us.
+
+10555   10557   You were quick enough to trust the elves.
+
+10559   10562   Have you so little faith in your own people?
+
+10562   10565   Yes, there is weakness.
+
+10565   10568   But there is courage also,
+
+10569   10571   But you will not see that.
+
+10571   10573   You are afraid!
+
+10573   10575   All your life, you have hidden in the shadows.
+
+10576   10579   Scared of who you are, of what you are.
+
+10582   10586   I will not lead the ring within
+
+10598   10599   Frodo.
+
+10601   10603   The Argonath.
+
+10606   10610   Long have I desired to look upon the kings of old.
+
+10611   10612   My kin.
+
+10692   10694   We cross the lake at nightfall.
+
+10694   10696   Hide the boats and continue on foot.
+
+10697   10700   - We approach Mordor from the North.
+
+10701   10704   Just a simple matter of finding
+
+10705   10708   ...an impassable labyrinth of razor-sharp rocks.
+
+10708   10711   And after that, it gets even better.
+
+10711   10716   Festering, stinking marshland
+
+10717   10718   That is our road.
+
+10720   10723   I suggest you take some rest and
+
+10723   10725   Recover my...
+
+10728   10730   - We should Leave now.
+
+10730   10734   Orcs patrol the eastern shore.
+
+10734   10738   It is not the eastern shore that worries me.
+
+10738   10742   A shadow and a threat has
+
+10743   10747   Something draws near.
+
+10749   10754   Recover strength?
+
+10754   10756   Where's Frodo?
+
+10782   10784   None of us should wander alone.
+
+10785   10787   You, least of all.
+
+10787   10790   So much depends on you.
+
+10791   10793   Frodo?
+
+10800   10802   I know why you seek solitude.
+
+10803   10806   You suffer. I see it day by day.
+
+10807   10810   You sure you do not suffer needlessly?
+
+10812   10815   There are other ways, Frodo.
+
+10815   10819   - Other paths that we might take.
+
+10819   10823   It would seem like wisdom but
+
+10823   10826   Warning...against what?
+
+10826   10828   We're all afraid, Frodo.
+
+10829   10832   But to let that fear drive us,
+
+10832   10836   ...don't you see that is madness?
+
+10838   10841   I ask only for the strength to defend my people!
+
+10843   10845   - If you would but lend me the ring.
+
+10846   10850   - Why do you recoil? I am no thief.
+
+10852   10855   What chance do you think you have?
+
+10855   10860   They will find you.
+
+10860   10864   And you will beg for death before the end!
+
+10866   10868   You fool!
+
+10868   10872   It is not yours, save by unhappy chance!
+
+10872   10875   It should be mine! Give it to me!
+
+10875   10877   - Give it to me!
+
+10877   10879   - Give it to me!
+
+10886   10888   I see your mind.
+
+10889   10891   You will take the ring to Sauron!
+
+10892   10894   You will betray us!
+
+10894   10897   You'll go to your death, and the death of us all!
+
+10897   10901   Curse you!
+
+10908   10910   Frodo?
+
+10914   10916   Frodo.
+
+10920   10921   What have I done?
+
+10922   10923   Please, Frodo.
+
+10924   10926   Frodo, I'm sorry!
+
+10957   10960   Ash Ghurûm
+
+10975   10976   Frodo?
+
+10978   10981   - It has taken Boromir.
+
+10981   10983   Stay away!
+
+10983   10985   Frodo!
+
+10987   10991   - I swore to protect you.
+
+11001   11003   Would you destroy it?
+
+11008   11010   Aragorn.
+
+11013   11016   Aragorn.
+
+11018   11019   Elessar.
+
+11027   11030   I would have gone with you to the end.
+
+11031   11034   Into the very fires of Mordor.
+
+11037   11038   I know.
+
+11041   11046   Look after the others. Especially Sam.
+
+11050   11052   Go, Frodo!
+
+11055   11056   Run.
+
+11056   11058   Run!
+
+11083   11084   Mr. Frodo!
+
+11094   11095   Find the halfling!
+
+11097   11099   Find the halfling!
+
+11103   11105   Elendil!
+
+11111   11113   Aragorn, go!
+
+11134   11136   Frodo!
+
+11136   11138   Hide here. Quick!
+
+11139   11140   Come on!
+
+11143   11145   What's he doing?
+
+11149   11151   He's leaving.
+
+11156   11158   - No!
+
+11163   11166   Run, Frodo. Go!
+
+11166   11169   - Hey! Hey, you!
+
+11170   11171   - Over here!
+
+11182   11185   - It's working!
+
+11240   11243   - The horn of Gondor.
+
+11286   11287   Run!
+
+11499   11500   No.
+
+11504   11507   - They took the little ones.
+
+11508   11510   Frodo. Where is Frodo?
+
+11512   11513   I let Frodo go.
+
+11514   11516   Then you did what I could not.
+
+11517   11521   I tried to take the ring from him.
+
+11521   11525   - The ring is beyond our reach now.
+
+11526   11528   I did not see it.
+
+11528   11531   - I have failed you all.
+
+11532   11534   You fought bravely.
+
+11535   11537   You have kept your honor.
+
+11538   11540   Leave it.
+
+11540   11542   It is over.
+
+11543   11549   The world of men will fall and
+
+11549   11552   ...and my city to ruin.
+
+11556   11559   I do not know what strength is in my blood...
+
+11559   11563   ...but I swear to you, I will
+
+11564   11566   ...nor our people fail.
+
+11567   11569   Our people.
+
+11573   11575   Our people.
+
+11597   11599   I would have followed you, my brother.
+
+11601   11603   My captain.
+
+11606   11608   My king.
+
+11627   11629   Be at peace...
+
+11630   11632   ...son of Gondor.
+
+11648   11652   They will look for his coming from the white tower.
+
+11652   11655   But he will not return.
+
+11679   11680   Frodo!
+
+11700   11703   I wish the ring had never come to me.
+
+11704   11707   I wish none of this had happened.
+
+11710   11713   So do all who live to see such times...
+
+11713   11717   ...but that is not for them to decide.
+
+11717   11720   All you have to decide...
+
+11720   11725   ...is what to do with the time that is given to you.
+
+11753   11755   Frodo, no!
+
+11756   11757   Frodo!
+
+11758   11761   - Mr. Frodo!
+
+11764   11766   Go back, Sam!
+
+11767   11770   - I'm going to Mordor alone.
+
+11771   11773   And I'm coming with you!
+
+11774   11776   You can't swim!
+
+11780   11782   Sam!
+
+11787   11789   Sam!
+
+11830   11832   I made a promise, Mr. Frodo.
+
+11833   11837   A promise:
+
+11838   11841   And I don't mean to.
+
+11841   11843   I don't mean to.
+
+11845   11847   Oh Sam.
+
+11862   11863   Come on.
+
+11892   11896   Hurry! Frodo and Sam have
+
+11911   11916   - You mean not to follow them.
+
+11920   11924   Then it has all been in vain.
+
+11936   11939   Not if we hold true to each other.
+
+11941   11945   We will not abandon Merry and
+
+11946   11951   Not while we have strength left.
+
+11953   11955   We travel light.
+
+11955   11957   Let us hunt some orc.
+
+11960   11962   Yes!
+
+11981   11982   Mordor.
+
+11983   11986   I hope the others find a safer road.
+
+11987   11990   Strider will look after them.
+
+11991   11994   I don't suppose we'll ever see them again.
+
+11995   11997   We may yet, Mr. Frodo.
+
+11997   11999   We may.
+
+12001   12002   Sam...
+
+12006   12008   ...I'm glad you are with me.
+
