@@ -87,9 +87,7 @@ string no = "No\n";
 
 void solve()
 {
-    
-
-
+    cout<<yo + no<<endl;
 }
 
 int main()
